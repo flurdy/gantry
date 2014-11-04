@@ -6,7 +6,6 @@ Build, host, share, discover and improve Docker repositories and images
 
 
 
-![Shipping](https://raw.githubusercontent.com/flurdy/gantry/master/images/shippingships2.jpg)
 
 
 ![Gantry](https://raw.githubusercontent.com/flurdy/gantry/master/images/gantryguard2.jpg)
@@ -29,3 +28,5 @@ Reference
 * http://registry.hub.docker.com
 * http://docker.com
 * http://flurdy.com
+* https://en.wikipedia.org/wiki/Gantry_crane
+

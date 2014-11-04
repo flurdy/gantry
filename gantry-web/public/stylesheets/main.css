@@ -1,0 +1,19 @@
+body {
+	background-color: navy;
+	font-family: sans-serif;
+}
+#ship {
+	background-color: #ddf;
+	max-width: 50em;
+	min-width: 30em;
+	border: 2px inset black;
+}
+#cargo {
+	min-height: 30em;
+}
+header {
+
+}
+footer {
+
+}

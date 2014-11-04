@@ -1,0 +1,21 @@
+@()(content: Html)
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Gantry</title>
+        <link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/main.css")">
+    </head>
+    <body>
+    	<div id="ship">
+    		<header>
+    			<h1>Gantry</h1>
+    			<h3>Build, host, share, discover and improve Docker repositories and images</h3>
+    		</header>
+    		<div id="cargo">
+    			@content
+    		</div>
+        </div>
+    </body>
+</html>

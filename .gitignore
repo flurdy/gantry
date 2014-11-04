@@ -1,17 +1,12 @@
 # Ignore Play! working directory #
-bin/
-/db
 .eclipse
-/lib/
-/logs/
-/modules
-/project/project
-/project/target
-/target
-tmp/
+/gantry-web/logs/
+/gantry-web/project/project
+/gantry-web/project/target
+/gantry-web/target
+/gantry-web/dist/
 test-result
 server.pid
 *.iml
 *.eml
-/dist/
 .cache
